@@ -26,10 +26,7 @@ Of course, it does not mean any tree can be included in a RF. Each of the tree s
 After these are all said, an interesting question naturally arises. Could we use proven ML lagorithm to guide how human learns from this world? Can people improve their personal learning model, their decision process, by applying proven ML concpets?
 
 Food for thoughts for the day.
-
-
-
-    
+ 
 
   
 -----
